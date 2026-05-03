@@ -72,6 +72,10 @@ Enables candidates to ask questions about the company:
 ###  Visuals
 - LemonSlice (Virtual Avatar Integration)
 
+## Run the agent:
+Open the livekit playground and select your current agent at 
+https://agents-playground.livekit.io/ <br>
+
 ### Refer to official documentation:
-https://docs.livekit.io/agents/
+https://docs.livekit.io/agents/ <br>
 https://lemonslice.com/
